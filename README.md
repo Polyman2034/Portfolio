@@ -36,11 +36,7 @@ Portfolio/
     └── ...
 ```
 
-## 🚀 Deployment
 
-The portfolio is deployed using **GitHub Pages** and is publicly accessible at:
-
-**https://polyman2034.github.io/Portfolio/**
 
 ## 👨‍💻 About Me
 
