@@ -12,3 +12,9 @@ A clean and responsive personal portfolio website built with **HTML & CSS** to s
 ### 👨‍💻 Author
 **Saiprasad Kawdikar**  
 Computer Engineering Student | Software Development & AI/ML Enthusiast
+
+<hr>
+
+<p align="center">
+  <i>“Learn. Build. Experiment. Improve.”</i> 🚀
+</p>
