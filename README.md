@@ -49,11 +49,7 @@ Computer Engineering Student | Software Development & AI/ML Enthusiast
 
 I enjoy learning by building projects, experimenting with new technologies, and continuously improving my engineering skills.
 
-## 🎯 Philosophy
 
-> **Learn. Build. Experiment. Improve.** 🚀
-
-Every project is an opportunity to learn something new, turn ideas into working solutions, and become a better engineer.
 <hr>
 
 <p align="center">
